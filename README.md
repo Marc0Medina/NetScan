@@ -12,7 +12,7 @@ Este es un proyecto para escanear redes y obtener información de los dispositiv
 
 1. Clona el repositorio:
 
-git clone https://github.com/Marc0Medina/NetScan.git
+`git clone https://github.com/Marc0Medina/NetScan.git`
 
 2. Averigua el resto por ti mismo
 
