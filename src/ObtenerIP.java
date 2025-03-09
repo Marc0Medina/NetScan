@@ -1,4 +1,4 @@
-package com.tecnm.morelia.itic.poo.escared;
+package com.tecnm.morelia.itic.poo.netscan;
 import java.net.*;
 import java.util.*;
 
