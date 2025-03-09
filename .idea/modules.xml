@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EscaRed.iml" filepath="$PROJECT_DIR$/EscaRed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetScan.iml" filepath="$PROJECT_DIR$/NetScan.iml" />
     </modules>
   </component>
 </project>
