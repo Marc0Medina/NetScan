@@ -1,4 +1,4 @@
-package tecnm.morelia.itic.poo.netscan;
+package com.tecnm.morelia.itic.poo.escared;
 
 import java.io.*;
 
@@ -18,7 +18,7 @@ public class NmapScan {
     public static void main(String[] args) {
         try {
             // Ejecuta la clase ObtenerIP para que obtenga y almacene la red CIDR
-            ObtenerIP.main(args);
+            com.tecnm.morelia.itic.poo.escared.ObtenerIP.main(args);
 
             // Luego obtenemos la red CIDR de la clase ObtenerIP
             String network = ObtenerIP.getNetworkCIDR();
